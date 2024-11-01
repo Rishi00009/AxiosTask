@@ -1,0 +1,5 @@
+This app containing People Personal data
+In this app you can add a new data by filling a given form.once you fill all the data click a Submit button.
+If you want to edit a data you can click a edit button in that specific data box.The data will show in form and you can edit it and submit it.
+Every Data have a unique Id.The id show in the top of the Data.
+If you want to delete a data you can click a delete button in that specific data box.The data will delete permanent and you never retrive that data.
